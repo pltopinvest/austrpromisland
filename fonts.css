@@ -1,0 +1,73 @@
+@font-face {
+ font-family: DIN;  
+ src: url("https://www.checkpoint.com/cpx/europe/wp-content/themes/cpx-2019/fonts/D-DIN.woff");  
+ font-weight: normal;  
+}
+
+@font-face {
+ font-family: DIN BOLD;  
+ src: url("https://www.checkpoint.com/cpx/europe/wp-content/themes/cpx-2019/css/fonts/D-DIN-Bold.woff");  
+ font-weight: normal;  
+}
+
+@font-face {
+ font-family: DIN ITALIC;  
+ src: url("https://www.checkpoint.com/cpx/europe/wp-content/themes/cpx-2019/fonts/D-DIN-Italic.woff");  
+ font-weight: normal;  
+}
+
+@font-face {
+ font-family: DIN CONDENSED;  
+ src: url("https://www.checkpoint.com/cpx/europe/wp-content/themes/cpx-2019/fonts/D-DINCondensed.woff");  
+ font-weight: normal;  
+}
+
+@font-face {
+ font-family: DIN CONDENSED BOLD;  
+ src: url("https://www.checkpoint.com/cpx/europe/wp-content/themes/cpx-2019/fonts/D-DINCondensed-Bold.woff");  
+ font-weight: normal;  
+}
+
+@font-face {
+	font-family: DIN EXP;  
+	src: url("https://www.checkpoint.com/cpx/europe/wp-content/themes/cpx-2019/fonts/D-DINExp.woff");  
+	font-weight: normal;  	
+}
+
+@font-face {
+	font-family: DIN EXP BOLD;  
+	src: url("https://www.checkpoint.com/cpx/europe/wp-content/themes/cpx-2019/fonts/D-DINExp-Bold.woff");  
+	font-weight: normal;  	
+}
+
+@font-face {
+	font-family: DIN EXP ITALIC;  
+	src: url("https://www.checkpoint.com/cpx/europe/wp-content/themes/cpx-2019/fonts/D-DINExp-Italic.woff");  
+	font-weight: normal;  	
+}
+
+
+
+.din-bold {
+	font-family: DIN BOLD!important;  
+}
+
+.din-italic {
+	font-family: DIN ITALIC!important;  
+}
+
+.din-condensed {
+	font-family: DIN CONDENSED!important;  
+}
+
+.din-condensed-bold {
+	font-family: DIN CONDENSED BOLD!important;  
+}
+
+.din-exp {
+	font-family: DIN EXP!important;  
+}
+
+.din-exp-bold {
+	font-family: DIN EXP BOLD!important;  
+}

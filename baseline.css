@@ -1,0 +1,60 @@
+button:focus {
+	outline:none;
+}
+
+.shadow-text {
+	text-shadow:1px 1px lightgrey;
+}
+
+.genesis-nav-menu {
+	width:-webkit-fit-content;
+	width:-moz-fit-content;
+	width:fit-content;
+}
+
+.cpx-hero .kt-row-layout-inner {
+	height:auto!important;
+}
+
+@media screen and (max-width: 770px){
+
+	.mobile-margin-top {
+		margin-top:100px;
+	}
+	.kt-row-column-wrap.kt-mobile-layout-row {
+		display:block!important;
+	}
+	.mobile-hide{
+		display:none!important;
+	}
+	.mobile-height-0 {
+		height:0px!important;
+	}
+	.mobile-font-24 {
+		font-size:24px!important;
+	}
+	.mobile-height-260{
+		height:260px!important;
+	}
+	.mobile-height-20 {
+		height:20px!important;
+	}
+	.cpx_city-button .kt-row-layout-inner > .kt-row-column-wrap > .kadence-column_012ad7-b8 > .kt-inside-inner-col {
+		padding-bottom:0px;
+	}
+
+	.mobile-cpx-hotel-table tr:first-of-type {
+		display: none;
+	}
+
+	.mobile-cpx-hotel-table tr {
+		border-bottom: solid 1px #eee;
+	}
+
+	.mobile-cpx-hotel-table td {
+		display:block;
+		border-top:0px;
+		text-align: center;
+	}
+
+}
